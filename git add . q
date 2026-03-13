@@ -1,0 +1,13 @@
+[1mdiff --git a/initiation stream/app.py b/initiation stream/app.py[m
+[1mindex 63e38b6..6c085dd 100644[m
+[1m--- a/initiation stream/app.py[m	
+[1m+++ b/initiation stream/app.py[m	
+[36m@@ -482,4 +482,5 @@[m [mst.markdown("---")[m
+ st.markdown([m
+     "<div style='text-align:center'>© 2026 • Application pédagogique Streamlit</div>",[m
+     unsafe_allow_html=True,[m
+[31m-)[m
+\ No newline at end of file[m
+[32m+[m[32m)[m
+[32m+[m[32msofiane ="ak fahem"[m
+\ No newline at end of file[m

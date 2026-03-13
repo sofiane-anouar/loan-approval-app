@@ -483,3 +483,4 @@ st.markdown(
     "<div style='text-align:center'>© 2026 • Application pédagogique Streamlit</div>",
     unsafe_allow_html=True,
 )
+sofiane ="ak fahem"
